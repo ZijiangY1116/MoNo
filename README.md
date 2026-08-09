@@ -248,15 +248,15 @@ The pre-trained models of MoNo are available at [MoNo (HuggingFace)](https://hug
         <tr>
             <td rowspan="2" style="text-align: center; vertical-align: middle;">OOD Angles</td>
             <td style="text-align: center;">MoNo-Light</td>
-            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo-light/airfrans_aoa/checkpoint/last.pt">Download</a></td>
-            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo-light/airfrans_aoa/log/log.txt">Download</a></td>
+            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo-light/airfrans_angles/checkpoint/last.pt">Download</a></td>
+            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo-light/airfrans_angles/log/log.txt">Download</a></td>
             <td style="text-align: center;">0.0222</td>
             <td style="text-align: center;">0.0553</td>
         </tr>
         <tr>
             <td style="text-align: center;">MoNo</td>
-            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo/airfrans_aoa/checkpoint/last.pt">Download</a></td>
-            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo/airfrans_aoa/log/log.txt">Download</a></td>
+            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo/airfrans_angles/checkpoint/last.pt">Download</a></td>
+            <td style="text-align: center;"><a href="https://huggingface.co/datasets/ZijiangY/MoNo/blob/main/pretrained/MoNo/airfrans_angles/log/log.txt">Download</a></td>
             <td style="text-align: center;">0.0097</td>
             <td style="text-align: center;">0.0248</td>
         </tr>
